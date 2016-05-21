@@ -7,8 +7,10 @@
 
 ## Browser Developer Tools
 * [Chrome](https://developer.chrome.com/devtools)
+    * [DevTools documentation](https://developers.google.com/web/tools/chrome-devtools/) 
     * [Developer Tools Tips](https://umaar.com/dev-tips/)
     * [Video — DevTools in 2015: Authoring to the max (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=dJR-n8szgBc)
+    * [Video — DevTools in 2016: Accelerate your workflow - Google I/O 2016](https://www.youtube.com/watch?v=x8u0n4dT-WI)
     * [Video — Addy Osmani - What’s New in Chrome DevTools](https://www.youtube.com/watch?v=XpGa6IzmmQg)
     * [Video - Web Performance Tooling - Google I/O 2016](https://www.youtube.com/watch?v=iMqi55rcR00)
 * [Firefox](https://developer.mozilla.org/en/docs/Tools)
