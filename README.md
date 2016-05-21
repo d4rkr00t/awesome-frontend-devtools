@@ -29,6 +29,7 @@
     * [Video — Time Travel with Cycle.js](https://www.youtube.com/watch?v=7fA0pVDHGJ0)
 * [React Developer Tools](https://github.com/facebook/react-devtools)
 * [Redux Developer Tools](https://github.com/gaearon/redux-devtools)
+* [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 
 ## Framework Agnostic Developer Tools
 * [Elm Reactor](https://github.com/elm-lang/elm-reactor)
