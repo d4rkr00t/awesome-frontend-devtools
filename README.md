@@ -28,6 +28,7 @@
 * [Cycle Time Travel](https://github.com/cyclejs/cycle-time-travel)
     * [Video — Time Travel with Cycle.js](https://www.youtube.com/watch?v=7fA0pVDHGJ0)
 * [React Developer Tools](https://github.com/facebook/react-devtools)
+   * [React Monocle](https://github.com/team-gryff/react-monocle) — A developer tool to visualize a React application's component hierarchy
 * [Redux Developer Tools](https://github.com/gaearon/redux-devtools)
 * [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 
